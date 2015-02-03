@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<head>
+<title>HW2</title>
+</head>
+<body>
+<!—This table should bring data from the students.json file and update—>
+	<table>
+		<tr>
+			<th>Name</th>
+			<th>GPA</th>
+			<th>GRE_V</th>
+			<th>GRE_Q</th>
+			<th>Essay</th>
+			<th>Recom</th>
+		</tr>
+		<tr>
+			
+		</tr>
+		
+	</table>
+<!—HW2 end—>
+		
+</body>
+
+</html>
